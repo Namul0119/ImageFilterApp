@@ -20,7 +20,7 @@ Java Swing 기반의 이미지 필터 도구입니다.
 ![filter_comparison](https://github.com/user-attachments/assets/b9eb578d-fa3e-4c29-9cff-537e847a8d59)
 
 ### 🔆 밝기 조절 슬라이더
-![brightness_demo](https://github.com/user-attachments/assets/e1baebec-0e04-44d1-8796-771603b12854)
+![brightness_demo1](https://github.com/user-attachments/assets/7354bca7-e712-46d0-9020-04e5c6ff627e)
 
 ### 🎯 마우스 클릭 색상 추출
 ![color_pick_popup](https://github.com/user-attachments/assets/4e011190-e0e4-4ec0-a3f2-4179df8204d1)
@@ -28,6 +28,3 @@ Java Swing 기반의 이미지 필터 도구입니다.
 
 ## 프로젝트 설명 페이지
 👉 [Notion 포트폴리오 바로가기](https://www.notion.so/FilterSnap-Java-1f6e7a8b645c80c9aebdf0a16af199b4?showMoveTo=true&saveParent=true)
-
-
-
