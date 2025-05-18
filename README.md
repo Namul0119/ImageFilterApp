@@ -16,8 +16,18 @@ Java Swing 기반의 이미지 필터 도구입니다.
 - BufferedImage, Graphics2D, ImageIO, MouseEvent 등
 
 ## 실행 화면 예시
-![스크린샷 2025-05-18 084617](https://github.com/user-attachments/assets/fc201269-9fab-4794-8e39-74e6ac403867)
-![스크린샷 2025-05-18 084719](https://github.com/user-attachments/assets/050b2ffa-cf3c-457b-a2a6-ffa21b56ee3a)
+### 💡 원본 / 필터 비교
+![filter_comparison](https://github.com/user-attachments/assets/b9eb578d-fa3e-4c29-9cff-537e847a8d59)
+
+### 🔆 밝기 조절 슬라이더
+![brightness_demo](https://github.com/user-attachments/assets/e1baebec-0e04-44d1-8796-771603b12854)
+
+### 🎯 마우스 클릭 색상 추출
+![color_pick_popup](https://github.com/user-attachments/assets/4e011190-e0e4-4ec0-a3f2-4179df8204d1)
+![color_pick_popup2](https://github.com/user-attachments/assets/4ae464f3-dab6-4dbc-a179-7d419cc7b18c)
 
 ## 프로젝트 설명 페이지
 👉 [Notion 포트폴리오 바로가기](https://www.notion.so/FilterSnap-Java-1f6e7a8b645c80c9aebdf0a16af199b4?showMoveTo=true&saveParent=true)
+
+
+
