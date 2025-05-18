@@ -16,13 +16,15 @@ Java Swing 기반의 이미지 필터 도구입니다.
 - BufferedImage, Graphics2D, ImageIO, MouseEvent 등
 
 ## 실행 화면 예시
-### 💡 원본 / 필터 비교
+### 💡 원본 vs 필터 적용 이미지 비교
 ![filter_comparison](https://github.com/user-attachments/assets/b9eb578d-fa3e-4c29-9cff-537e847a8d59)
 
-### 🔆 밝기 조절 슬라이더
+### 🔆 밝기 조절 슬라이더 적용
+밝기를 조절하여 이미지 밝기를 실시간으로 변화시킬 수 있습니다.
 ![brightness_demo1](https://github.com/user-attachments/assets/7354bca7-e712-46d0-9020-04e5c6ff627e)
 
 ### 🎯 마우스 클릭 색상 추출
+이미지를 클릭하면 해당 픽셀의 RGB/HEX 색상 정보를 팝업으로 확인할 수 있습니다.
 ![color_pick_popup](https://github.com/user-attachments/assets/4e011190-e0e4-4ec0-a3f2-4179df8204d1)
 ![color_pick_popup2](https://github.com/user-attachments/assets/4ae464f3-dab6-4dbc-a179-7d419cc7b18c)
 
